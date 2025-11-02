@@ -1,1 +1,1 @@
-echo "Message d'alerte" | mail -s "Alerte" user@example.com
+echo "Message d'alerte" | mail -s "Alerte" to@example.com

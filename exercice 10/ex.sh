@@ -1,1 +1,2 @@
-ps -u username | wc -l
+user=username1
+ps -u "$user" | wc -l
